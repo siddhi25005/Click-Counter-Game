@@ -1,0 +1,42 @@
+body{
+    background-color:bisque;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+.main{
+    margin:30px;
+    height:400px;
+    width:300px;
+    background-color:palevioletred;
+    color:black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    border:5px solid black;
+}
+button{
+    height:50px;
+    width:280px;
+    background-color:white;
+    color:black;
+    font-size:30px;
+}
+.res{
+    margin:10px;
+    background-color:white;
+    color:black;
+    height:50px;
+    width:280px;
+    font-size:30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+h1{
+    text-shadow: 0 0 20px white;
+}
